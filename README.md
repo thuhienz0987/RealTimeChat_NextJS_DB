@@ -1,4 +1,5 @@
-by: https://github.com/phuc-mai/halochat/tree/master \n
+by: https://github.com/phuc-mai/halochat/tree/master 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
